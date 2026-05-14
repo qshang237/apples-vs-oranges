@@ -20,7 +20,7 @@ Built with [fastai](https://www.fast.ai/) and PyTorch, fine-tuned on a ResNet18 
 | Metric | Value |
 |--------|-------|
 | Error Rate | 0.000 (100% accuracy) |
-| Training Images | ~200 |
+| Training Images | ~400 |
 | Training Time | ~30 seconds |
 | Epochs | 3 |
 
