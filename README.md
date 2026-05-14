@@ -11,7 +11,7 @@ Built with [fastai](https://www.fast.ai/) and PyTorch, fine-tuned on a ResNet18 
 
 ## How it works
 
-1. Scraped ~100 apple images and ~100 orange images using DuckDuckGo search
+1. Scraped ~200 apple images and ~200 orange images using DuckDuckGo search
 2. Fine-tuned a pretrained ResNet18 model (transfer learning)
 3. 3 epochs later — the model knows its fruits
 
